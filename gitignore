@@ -1,0 +1,15 @@
+
+# Python related
+__pycache__/
+*.py[cod]
+*.pyc
+
+# SQLite database file
+*.sqlite
+
+# Streamlit files
+.streamlit/
+
+# Virtual environment
+venv/
+.env
